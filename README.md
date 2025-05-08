@@ -1,2 +1,4 @@
-# data-analyst-portfolio
-My Data Analyst Projects Portfolio
+# Data-Analyst-Portfolio
+
+Ilmi Iftahli - Data Analyst Projects Portfolio
+
